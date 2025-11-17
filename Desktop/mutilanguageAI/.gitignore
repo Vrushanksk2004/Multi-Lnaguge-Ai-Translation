@@ -1,0 +1,21 @@
+# IDE files
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+*.env
+*.key
+
+# Submodules or large directories you don't want
+mutilanguageAI/pythonProject/
